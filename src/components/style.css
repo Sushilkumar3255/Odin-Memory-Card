@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Pokemon";
+    src: url("../font/Pokemon.ttf");
+}
+
+.title, .score {
+    color: white;
+    font-family: "Pokemon";
+    font-size: 30px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+}
+
+.best-score {
+    background-color: aliceblue;
+    color: black;
+    font-family: "Pokemon";
+    padding: 2px;
+}
+
+img {
+    border-radius: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    font-family: "Pokemon", "Helvetica Neue";
+    font-size: large;
+}
